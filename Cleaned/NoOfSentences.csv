@@ -1,0 +1,826 @@
+Date,City,Type,Observations
+31-03-2018,Auckland,Sentences,1930
+31-03-2018,Auckland,Orders,622
+31-03-2018,Auckland,Total,2552
+31-03-2018,Bay of Plenty,Sentences,1772
+31-03-2018,Bay of Plenty,Orders,474
+31-03-2018,Bay of Plenty,Total,2246
+31-03-2018,Canterbury,Sentences,2710
+31-03-2018,Canterbury,Orders,799
+31-03-2018,Canterbury,Total,3509
+31-03-2018,East Coast,Sentences,1982
+31-03-2018,East Coast,Orders,567
+31-03-2018,East Coast,Total,2549
+31-03-2018,Manukau,Sentences,3547
+31-03-2018,Manukau,Orders,947
+31-03-2018,Manukau,Total,4494
+31-03-2018,Nelson/ West Coast,Sentences,1076
+31-03-2018,Nelson/ West Coast,Orders,178
+31-03-2018,Nelson/ West Coast,Total,1254
+31-03-2018,Otago / Southland Region,Sentences,1050
+31-03-2018,Otago / Southland Region,Orders,325
+31-03-2018,Otago / Southland Region,Total,1375
+31-03-2018,Waikato,Sentences,2833
+31-03-2018,Waikato,Orders,750
+31-03-2018,Waikato,Total,3583
+31-03-2018,Wairarapa/ Manawatu,Sentences,1443
+31-03-2018,Wairarapa/ Manawatu,Orders,428
+31-03-2018,Wairarapa/ Manawatu,Total,1871
+31-03-2018,Wellington,Sentences,1908
+31-03-2018,Wellington,Orders,433
+31-03-2018,Wellington,Total,2341
+31-03-2018,Whanganui/ Taranaki,Sentences,1256
+31-03-2018,Whanganui/ Taranaki,Orders,368
+31-03-2018,Whanganui/ Taranaki,Total,1624
+30-06-2018,Auckland,Sentences,2018
+30-06-2018,Auckland,Orders,626
+30-06-2018,Auckland,Total,2644
+30-06-2018,Bay of Plenty,Sentences,1773
+30-06-2018,Bay of Plenty,Orders,436
+30-06-2018,Bay of Plenty,Total,2209
+30-06-2018,Canterbury,Sentences,2683
+30-06-2018,Canterbury,Orders,802
+30-06-2018,Canterbury,Total,3485
+30-06-2018,East Coast,Sentences,2122
+30-06-2018,East Coast,Orders,567
+30-06-2018,East Coast,Total,2689
+30-06-2018,Manukau,Sentences,3513
+30-06-2018,Manukau,Orders,1000
+30-06-2018,Manukau,Total,4513
+30-06-2018,Nelson/ West Coast,Sentences,1066
+30-06-2018,Nelson/ West Coast,Orders,171
+30-06-2018,Nelson/ West Coast,Total,1237
+30-06-2018,Otago / Southland Region,Sentences,1079
+30-06-2018,Otago / Southland Region,Orders,314
+30-06-2018,Otago / Southland Region,Total,1393
+30-06-2018,Waikato,Sentences,2933
+30-06-2018,Waikato,Orders,797
+30-06-2018,Waikato,Total,3730
+30-06-2018,Wairarapa/ Manawatu,Sentences,1465
+30-06-2018,Wairarapa/ Manawatu,Orders,417
+30-06-2018,Wairarapa/ Manawatu,Total,1882
+30-06-2018,Wellington,Sentences,1972
+30-06-2018,Wellington,Orders,437
+30-06-2018,Wellington,Total,2409
+30-06-2018,Whanganui/ Taranaki,Sentences,1196
+30-06-2018,Whanganui/ Taranaki,Orders,363
+30-06-2018,Whanganui/ Taranaki,Total,1559
+30-09-2018,Auckland,Sentences,2105
+30-09-2018,Auckland,Orders,647
+30-09-2018,Auckland,Total,2752
+30-09-2018,Bay of Plenty,Sentences,1601
+30-09-2018,Bay of Plenty,Orders,379
+30-09-2018,Bay of Plenty,Total,1980
+30-09-2018,Canterbury,Sentences,2754
+30-09-2018,Canterbury,Orders,832
+30-09-2018,Canterbury,Total,3586
+30-09-2018,East Coast,Sentences,2173
+30-09-2018,East Coast,Orders,565
+30-09-2018,East Coast,Total,2738
+30-09-2018,Manukau,Sentences,3652
+30-09-2018,Manukau,Orders,1056
+30-09-2018,Manukau,Total,4708
+30-09-2018,Nelson/ West Coast,Sentences,1108
+30-09-2018,Nelson/ West Coast,Orders,195
+30-09-2018,Nelson/ West Coast,Total,1303
+30-09-2018,Otago / Southland Region,Sentences,1112
+30-09-2018,Otago / Southland Region,Orders,303
+30-09-2018,Otago / Southland Region,Total,1415
+30-09-2018,Waikato,Sentences,2961
+30-09-2018,Waikato,Orders,793
+30-09-2018,Waikato,Total,3754
+30-09-2018,Wairarapa/ Manawatu,Sentences,1518
+30-09-2018,Wairarapa/ Manawatu,Orders,429
+30-09-2018,Wairarapa/ Manawatu,Total,1947
+30-09-2018,Wellington,Sentences,1987
+30-09-2018,Wellington,Orders,401
+30-09-2018,Wellington,Total,2388
+30-09-2018,Whanganui/ Taranaki,Sentences,1198
+30-09-2018,Whanganui/ Taranaki,Orders,375
+30-09-2018,Whanganui/ Taranaki,Total,1573
+31-12-2018,Auckland,Sentences,2082
+31-12-2018,Auckland,Orders,687
+31-12-2018,Auckland,Total,2769
+31-12-2018,Bay of Plenty,Sentences,1703
+31-12-2018,Bay of Plenty,Orders,431
+31-12-2018,Bay of Plenty,Total,2134
+31-12-2018,Canterbury,Sentences,2564
+31-12-2018,Canterbury,Orders,816
+31-12-2018,Canterbury,Total,3380
+31-12-2018,East Coast,Sentences,2092
+31-12-2018,East Coast,Orders,559
+31-12-2018,East Coast,Total,2651
+31-12-2018,Manukau,Sentences,3680
+31-12-2018,Manukau,Orders,1059
+31-12-2018,Manukau,Total,4739
+31-12-2018,Nelson/ West Coast,Sentences,1096
+31-12-2018,Nelson/ West Coast,Orders,181
+31-12-2018,Nelson/ West Coast,Total,1277
+31-12-2018,Otago / Southland Region,Sentences,1133
+31-12-2018,Otago / Southland Region,Orders,330
+31-12-2018,Otago / Southland Region,Total,1463
+31-12-2018,Waikato,Sentences,2945
+31-12-2018,Waikato,Orders,857
+31-12-2018,Waikato,Total,3802
+31-12-2018,Wairarapa/ Manawatu,Sentences,1464
+31-12-2018,Wairarapa/ Manawatu,Orders,432
+31-12-2018,Wairarapa/ Manawatu,Total,1896
+31-12-2018,Wellington,Sentences,1969
+31-12-2018,Wellington,Orders,439
+31-12-2018,Wellington,Total,2408
+31-12-2018,Whanganui/ Taranaki,Sentences,1251
+31-12-2018,Whanganui/ Taranaki,Orders,364
+31-12-2018,Whanganui/ Taranaki,Total,1615
+31-03-2019,Auckland,Sentences,2005
+31-03-2019,Auckland,Orders,669
+31-03-2019,Auckland,Total,2674
+31-03-2019,Bay of Plenty,Sentences,1667
+31-03-2019,Bay of Plenty,Orders,431
+31-03-2019,Bay of Plenty,Total,2098
+31-03-2019,Canterbury,Sentences,2557
+31-03-2019,Canterbury,Orders,718
+31-03-2019,Canterbury,Total,3275
+31-03-2019,East Coast,Sentences,1999
+31-03-2019,East Coast,Orders,508
+31-03-2019,East Coast,Total,2507
+31-03-2019,Manukau,Sentences,3589
+31-03-2019,Manukau,Orders,1040
+31-03-2019,Manukau,Total,4629
+31-03-2019,Nelson/ West Coast,Sentences,1096
+31-03-2019,Nelson/ West Coast,Orders,163
+31-03-2019,Nelson/ West Coast,Total,1259
+31-03-2019,Otago / Southland Region,Sentences,1060
+31-03-2019,Otago / Southland Region,Orders,318
+31-03-2019,Otago / Southland Region,Total,1378
+31-03-2019,Waikato,Sentences,2889
+31-03-2019,Waikato,Orders,826
+31-03-2019,Waikato,Total,3715
+31-03-2019,Wairarapa/ Manawatu,Sentences,1489
+31-03-2019,Wairarapa/ Manawatu,Orders,427
+31-03-2019,Wairarapa/ Manawatu,Total,1916
+31-03-2019,Wellington,Sentences,1903
+31-03-2019,Wellington,Orders,424
+31-03-2019,Wellington,Total,2327
+31-03-2019,Whanganui/ Taranaki,Sentences,1226
+31-03-2019,Whanganui/ Taranaki,Orders,357
+31-03-2019,Whanganui/ Taranaki,Total,1583
+30-06-2019,Auckland,Sentences,2037
+30-06-2019,Auckland,Orders,661
+30-06-2019,Auckland,Total,2698
+30-06-2019,Bay of Plenty,Sentences,1716
+30-06-2019,Bay of Plenty,Orders,415
+30-06-2019,Bay of Plenty,Total,2131
+30-06-2019,Canterbury,Sentences,2542
+30-06-2019,Canterbury,Orders,673
+30-06-2019,Canterbury,Total,3215
+30-06-2019,East Coast,Sentences,1958
+30-06-2019,East Coast,Orders,489
+30-06-2019,East Coast,Total,2447
+30-06-2019,Manukau,Sentences,3566
+30-06-2019,Manukau,Orders,974
+30-06-2019,Manukau,Total,4540
+30-06-2019,Nelson/ West Coast,Sentences,1110
+30-06-2019,Nelson/ West Coast,Orders,177
+30-06-2019,Nelson/ West Coast,Total,1287
+30-06-2019,Otago / Southland Region,Sentences,1024
+30-06-2019,Otago / Southland Region,Orders,283
+30-06-2019,Otago / Southland Region,Total,1307
+30-06-2019,Waikato,Sentences,2977
+30-06-2019,Waikato,Orders,827
+30-06-2019,Waikato,Total,3804
+30-06-2019,Wairarapa/ Manawatu,Sentences,1527
+30-06-2019,Wairarapa/ Manawatu,Orders,436
+30-06-2019,Wairarapa/ Manawatu,Total,1963
+30-06-2019,Wellington,Sentences,1837
+30-06-2019,Wellington,Orders,428
+30-06-2019,Wellington,Total,2265
+30-06-2019,Whanganui/ Taranaki,Sentences,1271
+30-06-2019,Whanganui/ Taranaki,Orders,357
+30-06-2019,Whanganui/ Taranaki,Total,1628
+30-09-2019,Auckland,Sentences,1996
+30-09-2019,Auckland,Orders,630
+30-09-2019,Auckland,Total,2626
+30-09-2019,Bay of Plenty,Sentences,1640
+30-09-2019,Bay of Plenty,Orders,395
+30-09-2019,Bay of Plenty,Total,2035
+30-09-2019,Canterbury,Sentences,2435
+30-09-2019,Canterbury,Orders,675
+30-09-2019,Canterbury,Total,3110
+30-09-2019,East Coast,Sentences,1991
+30-09-2019,East Coast,Orders,484
+30-09-2019,East Coast,Total,2475
+30-09-2019,Manukau,Sentences,3514
+30-09-2019,Manukau,Orders,946
+30-09-2019,Manukau,Total,4460
+30-09-2019,Nelson/ West Coast,Sentences,1057
+30-09-2019,Nelson/ West Coast,Orders,186
+30-09-2019,Nelson/ West Coast,Total,1243
+30-09-2019,Otago / Southland Region,Sentences,1015
+30-09-2019,Otago / Southland Region,Orders,274
+30-09-2019,Otago / Southland Region,Total,1289
+30-09-2019,Waikato,Sentences,2958
+30-09-2019,Waikato,Orders,849
+30-09-2019,Waikato,Total,3807
+30-09-2019,Wairarapa/ Manawatu,Sentences,1574
+30-09-2019,Wairarapa/ Manawatu,Orders,428
+30-09-2019,Wairarapa/ Manawatu,Total,2002
+30-09-2019,Wellington,Sentences,1894
+30-09-2019,Wellington,Orders,418
+30-09-2019,Wellington,Total,2312
+30-09-2019,Whanganui/ Taranaki,Sentences,1241
+30-09-2019,Whanganui/ Taranaki,Orders,391
+30-09-2019,Whanganui/ Taranaki,Total,1632
+31-12-2019,Auckland,Sentences,1987
+31-12-2019,Auckland,Orders,637
+31-12-2019,Auckland,Total,2624
+31-12-2019,Bay of Plenty,Sentences,1543
+31-12-2019,Bay of Plenty,Orders,399
+31-12-2019,Bay of Plenty,Total,1942
+31-12-2019,Canterbury,Sentences,2451
+31-12-2019,Canterbury,Orders,682
+31-12-2019,Canterbury,Total,3133
+31-12-2019,East Coast,Sentences,1965
+31-12-2019,East Coast,Orders,485
+31-12-2019,East Coast,Total,2450
+31-12-2019,Manukau,Sentences,3458
+31-12-2019,Manukau,Orders,970
+31-12-2019,Manukau,Total,4428
+31-12-2019,Nelson/ West Coast,Sentences,1024
+31-12-2019,Nelson/ West Coast,Orders,167
+31-12-2019,Nelson/ West Coast,Total,1191
+31-12-2019,Otago / Southland Region,Sentences,972
+31-12-2019,Otago / Southland Region,Orders,279
+31-12-2019,Otago / Southland Region,Total,1251
+31-12-2019,Waikato,Sentences,2782
+31-12-2019,Waikato,Orders,850
+31-12-2019,Waikato,Total,3632
+31-12-2019,Wairarapa/ Manawatu,Sentences,1578
+31-12-2019,Wairarapa/ Manawatu,Orders,418
+31-12-2019,Wairarapa/ Manawatu,Total,1996
+31-12-2019,Wellington,Sentences,1837
+31-12-2019,Wellington,Orders,444
+31-12-2019,Wellington,Total,2281
+31-12-2019,Whanganui/ Taranaki,Sentences,1238
+31-12-2019,Whanganui/ Taranaki,Orders,392
+31-12-2019,Whanganui/ Taranaki,Total,1630
+31-03-2020,Auckland,Sentences,1910
+31-03-2020,Auckland,Orders,622
+31-03-2020,Auckland,Total,2532
+31-03-2020,Bay of Plenty,Sentences,1452
+31-03-2020,Bay of Plenty,Orders,406
+31-03-2020,Bay of Plenty,Total,1858
+31-03-2020,Canterbury,Sentences,2493
+31-03-2020,Canterbury,Orders,722
+31-03-2020,Canterbury,Total,3215
+31-03-2020,East Coast,Sentences,1917
+31-03-2020,East Coast,Orders,512
+31-03-2020,East Coast,Total,2429
+31-03-2020,Manukau,Sentences,3255
+31-03-2020,Manukau,Orders,950
+31-03-2020,Manukau,Total,4205
+31-03-2020,Nelson/ West Coast,Sentences,1011
+31-03-2020,Nelson/ West Coast,Orders,155
+31-03-2020,Nelson/ West Coast,Total,1166
+31-03-2020,Otago / Southland Region,Sentences,910
+31-03-2020,Otago / Southland Region,Orders,262
+31-03-2020,Otago / Southland Region,Total,1172
+31-03-2020,Waikato,Sentences,2682
+31-03-2020,Waikato,Orders,834
+31-03-2020,Waikato,Total,3516
+31-03-2020,Wairarapa/ Manawatu,Sentences,1505
+31-03-2020,Wairarapa/ Manawatu,Orders,418
+31-03-2020,Wairarapa/ Manawatu,Total,1923
+31-03-2020,Wellington,Sentences,1794
+31-03-2020,Wellington,Orders,426
+31-03-2020,Wellington,Total,2220
+31-03-2020,Whanganui/ Taranaki,Sentences,1264
+31-03-2020,Whanganui/ Taranaki,Orders,366
+31-03-2020,Whanganui/ Taranaki,Total,1630
+30-06-2020,Auckland,Sentences,1776
+30-06-2020,Auckland,Orders,648
+30-06-2020,Auckland,Total,2424
+30-06-2020,Bay of Plenty,Sentences,1403
+30-06-2020,Bay of Plenty,Orders,402
+30-06-2020,Bay of Plenty,Total,1805
+30-06-2020,Canterbury,Sentences,2335
+30-06-2020,Canterbury,Orders,806
+30-06-2020,Canterbury,Total,3141
+30-06-2020,East Coast,Sentences,1776
+30-06-2020,East Coast,Orders,508
+30-06-2020,East Coast,Total,2284
+30-06-2020,Manukau,Sentences,3123
+30-06-2020,Manukau,Orders,931
+30-06-2020,Manukau,Total,4054
+30-06-2020,Nelson/ West Coast,Sentences,959
+30-06-2020,Nelson/ West Coast,Orders,163
+30-06-2020,Nelson/ West Coast,Total,1122
+30-06-2020,Otago / Southland Region,Sentences,915
+30-06-2020,Otago / Southland Region,Orders,287
+30-06-2020,Otago / Southland Region,Total,1202
+30-06-2020,Waikato,Sentences,2540
+30-06-2020,Waikato,Orders,829
+30-06-2020,Waikato,Total,3369
+30-06-2020,Wairarapa/ Manawatu,Sentences,1393
+30-06-2020,Wairarapa/ Manawatu,Orders,422
+30-06-2020,Wairarapa/ Manawatu,Total,1815
+30-06-2020,Wellington,Sentences,1777
+30-06-2020,Wellington,Orders,420
+30-06-2020,Wellington,Total,2197
+30-06-2020,Whanganui/ Taranaki,Sentences,1223
+30-06-2020,Whanganui/ Taranaki,Orders,366
+30-06-2020,Whanganui/ Taranaki,Total,1589
+30-09-2020,Auckland,Sentences,2064
+30-09-2020,Auckland,Orders,670
+30-09-2020,Auckland,Total,2734
+30-09-2020,Bay of Plenty,Sentences,1451
+30-09-2020,Bay of Plenty,Orders,374
+30-09-2020,Bay of Plenty,Total,1825
+30-09-2020,Canterbury,Sentences,2589
+30-09-2020,Canterbury,Orders,810
+30-09-2020,Canterbury,Total,3399
+30-09-2020,East Coast,Sentences,1956
+30-09-2020,East Coast,Orders,521
+30-09-2020,East Coast,Total,2477
+30-09-2020,Manukau,Sentences,3262
+30-09-2020,Manukau,Orders,949
+30-09-2020,Manukau,Total,4211
+30-09-2020,Nelson/ West Coast,Sentences,1134
+30-09-2020,Nelson/ West Coast,Orders,154
+30-09-2020,Nelson/ West Coast,Total,1288
+30-09-2020,Otago / Southland Region,Sentences,1096
+30-09-2020,Otago / Southland Region,Orders,304
+30-09-2020,Otago / Southland Region,Total,1400
+30-09-2020,Waikato,Sentences,2815
+30-09-2020,Waikato,Orders,839
+30-09-2020,Waikato,Total,3654
+30-09-2020,Wairarapa/ Manawatu,Sentences,1449
+30-09-2020,Wairarapa/ Manawatu,Orders,414
+30-09-2020,Wairarapa/ Manawatu,Total,1863
+30-09-2020,Wellington,Sentences,1853
+30-09-2020,Wellington,Orders,426
+30-09-2020,Wellington,Total,2279
+30-09-2020,Whanganui/ Taranaki,Sentences,1338
+30-09-2020,Whanganui/ Taranaki,Orders,368
+30-09-2020,Whanganui/ Taranaki,Total,1706
+31-12-2020,Auckland,Sentences,2176
+31-12-2020,Auckland,Orders,653
+31-12-2020,Auckland,Total,2829
+31-12-2020,Bay of Plenty,Sentences,1520
+31-12-2020,Bay of Plenty,Orders,403
+31-12-2020,Bay of Plenty,Total,1923
+31-12-2020,Canterbury,Sentences,2599
+31-12-2020,Canterbury,Orders,776
+31-12-2020,Canterbury,Total,3375
+31-12-2020,East Coast,Sentences,1933
+31-12-2020,East Coast,Orders,507
+31-12-2020,East Coast,Total,2440
+31-12-2020,Manukau,Sentences,3310
+31-12-2020,Manukau,Orders,930
+31-12-2020,Manukau,Total,4240
+31-12-2020,Nelson/ West Coast,Sentences,1136
+31-12-2020,Nelson/ West Coast,Orders,153
+31-12-2020,Nelson/ West Coast,Total,1289
+31-12-2020,Otago / Southland Region,Sentences,1050
+31-12-2020,Otago / Southland Region,Orders,315
+31-12-2020,Otago / Southland Region,Total,1365
+31-12-2020,Waikato,Sentences,2881
+31-12-2020,Waikato,Orders,827
+31-12-2020,Waikato,Total,3708
+31-12-2020,Wairarapa/ Manawatu,Sentences,1493
+31-12-2020,Wairarapa/ Manawatu,Orders,402
+31-12-2020,Wairarapa/ Manawatu,Total,1895
+31-12-2020,Wellington,Sentences,1839
+31-12-2020,Wellington,Orders,418
+31-12-2020,Wellington,Total,2257
+31-12-2020,Whanganui/ Taranaki,Sentences,1303
+31-12-2020,Whanganui/ Taranaki,Orders,369
+31-12-2020,Whanganui/ Taranaki,Total,1672
+31-03-2021,Auckland,Sentences,2174
+31-03-2021,Auckland,Orders,621
+31-03-2021,Auckland,Total,2795
+31-03-2021,Bay of Plenty,Sentences,1625
+31-03-2021,Bay of Plenty,Orders,371
+31-03-2021,Bay of Plenty,Total,1996
+31-03-2021,Canterbury,Sentences,2658
+31-03-2021,Canterbury,Orders,698
+31-03-2021,Canterbury,Total,3356
+31-03-2021,East Coast,Sentences,1960
+31-03-2021,East Coast,Orders,470
+31-03-2021,East Coast,Total,2430
+31-03-2021,Manukau,Sentences,3291
+31-03-2021,Manukau,Orders,895
+31-03-2021,Manukau,Total,4186
+31-03-2021,Nelson/ West Coast,Sentences,1159
+31-03-2021,Nelson/ West Coast,Orders,158
+31-03-2021,Nelson/ West Coast,Total,1317
+31-03-2021,Otago / Southland Region,Sentences,931
+31-03-2021,Otago / Southland Region,Orders,309
+31-03-2021,Otago / Southland Region,Total,1240
+31-03-2021,Waikato,Sentences,2978
+31-03-2021,Waikato,Orders,782
+31-03-2021,Waikato,Total,3760
+31-03-2021,Wairarapa/ Manawatu,Sentences,1473
+31-03-2021,Wairarapa/ Manawatu,Orders,398
+31-03-2021,Wairarapa/ Manawatu,Total,1871
+31-03-2021,Wellington,Sentences,1835
+31-03-2021,Wellington,Orders,407
+31-03-2021,Wellington,Total,2242
+31-03-2021,Whanganui/ Taranaki,Sentences,1340
+31-03-2021,Whanganui/ Taranaki,Orders,341
+31-03-2021,Whanganui/ Taranaki,Total,1681
+30-06-2021,Auckland,Sentences,2282
+30-06-2021,Auckland,Orders,669
+30-06-2021,Auckland,Total,2951
+30-06-2021,Bay of Plenty,Sentences,1713
+30-06-2021,Bay of Plenty,Orders,369
+30-06-2021,Bay of Plenty,Total,2082
+30-06-2021,Canterbury,Sentences,2767
+30-06-2021,Canterbury,Orders,687
+30-06-2021,Canterbury,Total,3454
+30-06-2021,East Coast,Sentences,1962
+30-06-2021,East Coast,Orders,467
+30-06-2021,East Coast,Total,2429
+30-06-2021,Manukau,Sentences,3463
+30-06-2021,Manukau,Orders,829
+30-06-2021,Manukau,Total,4292
+30-06-2021,Nelson/ West Coast,Sentences,1172
+30-06-2021,Nelson/ West Coast,Orders,161
+30-06-2021,Nelson/ West Coast,Total,1333
+30-06-2021,Otago / Southland Region,Sentences,927
+30-06-2021,Otago / Southland Region,Orders,318
+30-06-2021,Otago / Southland Region,Total,1245
+30-06-2021,Waikato,Sentences,2871
+30-06-2021,Waikato,Orders,765
+30-06-2021,Waikato,Total,3636
+30-06-2021,Wairarapa/ Manawatu,Sentences,1471
+30-06-2021,Wairarapa/ Manawatu,Orders,409
+30-06-2021,Wairarapa/ Manawatu,Total,1880
+30-06-2021,Wellington,Sentences,1804
+30-06-2021,Wellington,Orders,397
+30-06-2021,Wellington,Total,2201
+30-06-2021,Whanganui/ Taranaki,Sentences,1318
+30-06-2021,Whanganui/ Taranaki,Orders,355
+30-06-2021,Whanganui/ Taranaki,Total,1673
+30-09-2021,Auckland,Sentences,2078
+30-09-2021,Auckland,Orders,630
+30-09-2021,Auckland,Total,2708
+30-09-2021,Bay of Plenty,Sentences,1645
+30-09-2021,Bay of Plenty,Orders,365
+30-09-2021,Bay of Plenty,Total,2010
+30-09-2021,Canterbury,Sentences,2754
+30-09-2021,Canterbury,Orders,675
+30-09-2021,Canterbury,Total,3429
+30-09-2021,East Coast,Sentences,1965
+30-09-2021,East Coast,Orders,443
+30-09-2021,East Coast,Total,2408
+30-09-2021,Manukau,Sentences,3191
+30-09-2021,Manukau,Orders,855
+30-09-2021,Manukau,Total,4046
+30-09-2021,Nelson/ West Coast,Sentences,1086
+30-09-2021,Nelson/ West Coast,Orders,154
+30-09-2021,Nelson/ West Coast,Total,1240
+30-09-2021,Otago / Southland Region,Sentences,860
+30-09-2021,Otago / Southland Region,Orders,286
+30-09-2021,Otago / Southland Region,Total,1146
+30-09-2021,Waikato,Sentences,2722
+30-09-2021,Waikato,Orders,734
+30-09-2021,Waikato,Total,3456
+30-09-2021,Wairarapa/ Manawatu,Sentences,1364
+30-09-2021,Wairarapa/ Manawatu,Orders,411
+30-09-2021,Wairarapa/ Manawatu,Total,1775
+30-09-2021,Wellington,Sentences,1751
+30-09-2021,Wellington,Orders,376
+30-09-2021,Wellington,Total,2127
+30-09-2021,Whanganui/ Taranaki,Sentences,1225
+30-09-2021,Whanganui/ Taranaki,Orders,345
+30-09-2021,Whanganui/ Taranaki,Total,1570
+31-12-2021,Auckland,Sentences,1738
+31-12-2021,Auckland,Orders,652
+31-12-2021,Auckland,Total,2390
+31-12-2021,Bay of Plenty,Sentences,1550
+31-12-2021,Bay of Plenty,Orders,412
+31-12-2021,Bay of Plenty,Total,1962
+31-12-2021,Canterbury,Sentences,2704
+31-12-2021,Canterbury,Orders,674
+31-12-2021,Canterbury,Total,3378
+31-12-2021,East Coast,Sentences,1884
+31-12-2021,East Coast,Orders,422
+31-12-2021,East Coast,Total,2306
+31-12-2021,Manukau,Sentences,2634
+31-12-2021,Manukau,Orders,815
+31-12-2021,Manukau,Total,3449
+31-12-2021,Nelson/ West Coast,Sentences,1122
+31-12-2021,Nelson/ West Coast,Orders,145
+31-12-2021,Nelson/ West Coast,Total,1267
+31-12-2021,Otago / Southland Region,Sentences,866
+31-12-2021,Otago / Southland Region,Orders,274
+31-12-2021,Otago / Southland Region,Total,1140
+31-12-2021,Waikato,Sentences,2439
+31-12-2021,Waikato,Orders,745
+31-12-2021,Waikato,Total,3184
+31-12-2021,Wairarapa/ Manawatu,Sentences,1272
+31-12-2021,Wairarapa/ Manawatu,Orders,391
+31-12-2021,Wairarapa/ Manawatu,Total,1663
+31-12-2021,Wellington,Sentences,1723
+31-12-2021,Wellington,Orders,380
+31-12-2021,Wellington,Total,2103
+31-12-2021,Whanganui/ Taranaki,Sentences,1169
+31-12-2021,Whanganui/ Taranaki,Orders,343
+31-12-2021,Whanganui/ Taranaki,Total,1512
+31-03-2022,Auckland,Sentences,1778
+31-03-2022,Auckland,Orders,617
+31-03-2022,Auckland,Total,2395
+31-03-2022,Bay of Plenty,Sentences,1559
+31-03-2022,Bay of Plenty,Orders,405
+31-03-2022,Bay of Plenty,Total,1964
+31-03-2022,Canterbury,Sentences,2585
+31-03-2022,Canterbury,Orders,674
+31-03-2022,Canterbury,Total,3259
+31-03-2022,East Coast,Sentences,1830
+31-03-2022,East Coast,Orders,447
+31-03-2022,East Coast,Total,2277
+31-03-2022,Manukau,Sentences,2787
+31-03-2022,Manukau,Orders,830
+31-03-2022,Manukau,Total,3617
+31-03-2022,Nelson/ West Coast,Sentences,1079
+31-03-2022,Nelson/ West Coast,Orders,149
+31-03-2022,Nelson/ West Coast,Total,1228
+31-03-2022,Otago / Southland Region,Sentences,823
+31-03-2022,Otago / Southland Region,Orders,262
+31-03-2022,Otago / Southland Region,Total,1085
+31-03-2022,Waikato,Sentences,2449
+31-03-2022,Waikato,Orders,729
+31-03-2022,Waikato,Total,3178
+31-03-2022,Wairarapa/ Manawatu,Sentences,1136
+31-03-2022,Wairarapa/ Manawatu,Orders,346
+31-03-2022,Wairarapa/ Manawatu,Total,1482
+31-03-2022,Wellington,Sentences,1683
+31-03-2022,Wellington,Orders,390
+31-03-2022,Wellington,Total,2073
+31-03-2022,Whanganui/ Taranaki,Sentences,1084
+31-03-2022,Whanganui/ Taranaki,Orders,323
+31-03-2022,Whanganui/ Taranaki,Total,1407
+30-06-2022,Auckland,Sentences,2064
+30-06-2022,Auckland,Orders,589
+30-06-2022,Auckland,Total,2653
+30-06-2022,Bay of Plenty,Sentences,1747
+30-06-2022,Bay of Plenty,Orders,373
+30-06-2022,Bay of Plenty,Total,2120
+30-06-2022,Canterbury,Sentences,2414
+30-06-2022,Canterbury,Orders,633
+30-06-2022,Canterbury,Total,3047
+30-06-2022,East Coast,Sentences,1905
+30-06-2022,East Coast,Orders,428
+30-06-2022,East Coast,Total,2333
+30-06-2022,Manukau,Sentences,3132
+30-06-2022,Manukau,Orders,738
+30-06-2022,Manukau,Total,3870
+30-06-2022,Nelson/ West Coast,Sentences,1040
+30-06-2022,Nelson/ West Coast,Orders,159
+30-06-2022,Nelson/ West Coast,Total,1199
+30-06-2022,Otago / Southland Region,Sentences,920
+30-06-2022,Otago / Southland Region,Orders,300
+30-06-2022,Otago / Southland Region,Total,1220
+30-06-2022,Waikato,Sentences,2620
+30-06-2022,Waikato,Orders,664
+30-06-2022,Waikato,Total,3284
+30-06-2022,Wairarapa/ Manawatu,Sentences,1137
+30-06-2022,Wairarapa/ Manawatu,Orders,354
+30-06-2022,Wairarapa/ Manawatu,Total,1491
+30-06-2022,Wellington,Sentences,1624
+30-06-2022,Wellington,Orders,370
+30-06-2022,Wellington,Total,1994
+30-06-2022,Whanganui/ Taranaki,Sentences,1108
+30-06-2022,Whanganui/ Taranaki,Orders,329
+30-06-2022,Whanganui/ Taranaki,Total,1437
+30-09-2022,Auckland,Sentences,2125
+30-09-2022,Auckland,Orders,552
+30-09-2022,Auckland,Total,2677
+30-09-2022,Bay of Plenty,Sentences,1802
+30-09-2022,Bay of Plenty,Orders,378
+30-09-2022,Bay of Plenty,Total,2180
+30-09-2022,Canterbury,Sentences,2423
+30-09-2022,Canterbury,Orders,661
+30-09-2022,Canterbury,Total,3084
+30-09-2022,East Coast,Sentences,1898
+30-09-2022,East Coast,Orders,406
+30-09-2022,East Coast,Total,2304
+30-09-2022,Manukau,Sentences,3221
+30-09-2022,Manukau,Orders,696
+30-09-2022,Manukau,Total,3917
+30-09-2022,Nelson/ West Coast,Sentences,1062
+30-09-2022,Nelson/ West Coast,Orders,144
+30-09-2022,Nelson/ West Coast,Total,1206
+30-09-2022,Otago / Southland Region,Sentences,858
+30-09-2022,Otago / Southland Region,Orders,265
+30-09-2022,Otago / Southland Region,Total,1123
+30-09-2022,Waikato,Sentences,2703
+30-09-2022,Waikato,Orders,620
+30-09-2022,Waikato,Total,3323
+30-09-2022,Wairarapa/ Manawatu,Sentences,1119
+30-09-2022,Wairarapa/ Manawatu,Orders,330
+30-09-2022,Wairarapa/ Manawatu,Total,1449
+30-09-2022,Wellington,Sentences,1612
+30-09-2022,Wellington,Orders,360
+30-09-2022,Wellington,Total,1972
+30-09-2022,Whanganui/ Taranaki,Sentences,1197
+30-09-2022,Whanganui/ Taranaki,Orders,295
+30-09-2022,Whanganui/ Taranaki,Total,1492
+31-12-2022,Auckland,Sentences,2227
+31-12-2022,Auckland,Orders,542
+31-12-2022,Auckland,Total,2769
+31-12-2022,Bay of Plenty,Sentences,1786
+31-12-2022,Bay of Plenty,Orders,411
+31-12-2022,Bay of Plenty,Total,2197
+31-12-2022,Canterbury,Sentences,2303
+31-12-2022,Canterbury,Orders,630
+31-12-2022,Canterbury,Total,2933
+31-12-2022,East Coast,Sentences,1838
+31-12-2022,East Coast,Orders,379
+31-12-2022,East Coast,Total,2217
+31-12-2022,Manukau,Sentences,3310
+31-12-2022,Manukau,Orders,697
+31-12-2022,Manukau,Total,4007
+31-12-2022,Nelson/ West Coast,Sentences,1018
+31-12-2022,Nelson/ West Coast,Orders,154
+31-12-2022,Nelson/ West Coast,Total,1172
+31-12-2022,Otago / Southland Region,Sentences,759
+31-12-2022,Otago / Southland Region,Orders,268
+31-12-2022,Otago / Southland Region,Total,1027
+31-12-2022,Waikato,Sentences,2702
+31-12-2022,Waikato,Orders,613
+31-12-2022,Waikato,Total,3315
+31-12-2022,Wairarapa/ Manawatu,Sentences,1099
+31-12-2022,Wairarapa/ Manawatu,Orders,342
+31-12-2022,Wairarapa/ Manawatu,Total,1441
+31-12-2022,Wellington,Sentences,1553
+31-12-2022,Wellington,Orders,348
+31-12-2022,Wellington,Total,1901
+31-12-2022,Whanganui/ Taranaki,Sentences,1162
+31-12-2022,Whanganui/ Taranaki,Orders,288
+31-12-2022,Whanganui/ Taranaki,Total,1450
+31-03-2023,Auckland,Sentences,2223
+31-03-2023,Auckland,Orders,536
+31-03-2023,Auckland,Total,2759
+31-03-2023,Bay of Plenty,Sentences,1782
+31-03-2023,Bay of Plenty,Orders,399
+31-03-2023,Bay of Plenty,Total,2181
+31-03-2023,Canterbury,Sentences,2210
+31-03-2023,Canterbury,Orders,629
+31-03-2023,Canterbury,Total,2839
+31-03-2023,East Coast,Sentences,1656
+31-03-2023,East Coast,Orders,368
+31-03-2023,East Coast,Total,2024
+31-03-2023,Manukau,Sentences,3337
+31-03-2023,Manukau,Orders,728
+31-03-2023,Manukau,Total,4065
+31-03-2023,Nelson/ West Coast,Sentences,1063
+31-03-2023,Nelson/ West Coast,Orders,152
+31-03-2023,Nelson/ West Coast,Total,1215
+31-03-2023,Otago / Southland Region,Sentences,813
+31-03-2023,Otago / Southland Region,Orders,265
+31-03-2023,Otago / Southland Region,Total,1078
+31-03-2023,Waikato,Sentences,2576
+31-03-2023,Waikato,Orders,643
+31-03-2023,Waikato,Total,3219
+31-03-2023,Wairarapa/ Manawatu,Sentences,1108
+31-03-2023,Wairarapa/ Manawatu,Orders,358
+31-03-2023,Wairarapa/ Manawatu,Total,1466
+31-03-2023,Wellington,Sentences,1544
+31-03-2023,Wellington,Orders,343
+31-03-2023,Wellington,Total,1887
+31-03-2023,Whanganui/ Taranaki,Sentences,1120
+31-03-2023,Whanganui/ Taranaki,Orders,308
+31-03-2023,Whanganui/ Taranaki,Total,1428
+30-06-2023,Auckland,Sentences,2247
+30-06-2023,Auckland,Orders,553
+30-06-2023,Auckland,Total,2800
+30-06-2023,Bay of Plenty,Sentences,1835
+30-06-2023,Bay of Plenty,Orders,403
+30-06-2023,Bay of Plenty,Total,2238
+30-06-2023,Canterbury,Sentences,2162
+30-06-2023,Canterbury,Orders,622
+30-06-2023,Canterbury,Total,2784
+30-06-2023,East Coast,Sentences,1725
+30-06-2023,East Coast,Orders,368
+30-06-2023,East Coast,Total,2093
+30-06-2023,Manukau,Sentences,3348
+30-06-2023,Manukau,Orders,710
+30-06-2023,Manukau,Total,4058
+30-06-2023,Nelson/ West Coast,Sentences,1137
+30-06-2023,Nelson/ West Coast,Orders,140
+30-06-2023,Nelson/ West Coast,Total,1277
+30-06-2023,Otago / Southland Region,Sentences,821
+30-06-2023,Otago / Southland Region,Orders,240
+30-06-2023,Otago / Southland Region,Total,1061
+30-06-2023,Waikato,Sentences,2463
+30-06-2023,Waikato,Orders,631
+30-06-2023,Waikato,Total,3094
+30-06-2023,Wairarapa/ Manawatu,Sentences,1108
+30-06-2023,Wairarapa/ Manawatu,Orders,340
+30-06-2023,Wairarapa/ Manawatu,Total,1448
+30-06-2023,Wellington,Sentences,1565
+30-06-2023,Wellington,Orders,311
+30-06-2023,Wellington,Total,1876
+30-06-2023,Whanganui/ Taranaki,Sentences,1113
+30-06-2023,Whanganui/ Taranaki,Orders,315
+30-06-2023,Whanganui/ Taranaki,Total,1428
+30-09-2023,Auckland,Sentences,2161
+30-09-2023,Auckland,Orders,526
+30-09-2023,Auckland,Total,2687
+30-09-2023,Bay of Plenty,Sentences,1888
+30-09-2023,Bay of Plenty,Orders,392
+30-09-2023,Bay of Plenty,Total,2280
+30-09-2023,Canterbury,Sentences,2186
+30-09-2023,Canterbury,Orders,600
+30-09-2023,Canterbury,Total,2786
+30-09-2023,East Coast,Sentences,1836
+30-09-2023,East Coast,Orders,385
+30-09-2023,East Coast,Total,2221
+30-09-2023,Manukau,Sentences,3312
+30-09-2023,Manukau,Orders,730
+30-09-2023,Manukau,Total,4042
+30-09-2023,Nelson/ West Coast,Sentences,1129
+30-09-2023,Nelson/ West Coast,Orders,138
+30-09-2023,Nelson/ West Coast,Total,1267
+30-09-2023,Otago / Southland Region,Sentences,942
+30-09-2023,Otago / Southland Region,Orders,244
+30-09-2023,Otago / Southland Region,Total,1186
+30-09-2023,Waikato,Sentences,2463
+30-09-2023,Waikato,Orders,624
+30-09-2023,Waikato,Total,3087
+30-09-2023,Wairarapa/ Manawatu,Sentences,1161
+30-09-2023,Wairarapa/ Manawatu,Orders,319
+30-09-2023,Wairarapa/ Manawatu,Total,1480
+30-09-2023,Wellington,Sentences,1606
+30-09-2023,Wellington,Orders,321
+30-09-2023,Wellington,Total,1927
+30-09-2023,Whanganui/ Taranaki,Sentences,1112
+30-09-2023,Whanganui/ Taranaki,Orders,325
+30-09-2023,Whanganui/ Taranaki,Total,1437
+31-12-2023,Auckland,Sentences,2100
+31-12-2023,Auckland,Orders,535
+31-12-2023,Auckland,Total,2635
+31-12-2023,Bay of Plenty,Sentences,1795
+31-12-2023,Bay of Plenty,Orders,353
+31-12-2023,Bay of Plenty,Total,2148
+31-12-2023,Canterbury,Sentences,2005
+31-12-2023,Canterbury,Orders,603
+31-12-2023,Canterbury,Total,2608
+31-12-2023,East Coast,Sentences,1862
+31-12-2023,East Coast,Orders,421
+31-12-2023,East Coast,Total,2283
+31-12-2023,Manukau,Sentences,3239
+31-12-2023,Manukau,Orders,754
+31-12-2023,Manukau,Total,3993
+31-12-2023,Nelson/ West Coast,Sentences,1079
+31-12-2023,Nelson/ West Coast,Orders,150
+31-12-2023,Nelson/ West Coast,Total,1229
+31-12-2023,Otago / Southland Region,Sentences,916
+31-12-2023,Otago / Southland Region,Orders,244
+31-12-2023,Otago / Southland Region,Total,1160
+31-12-2023,Waikato,Sentences,2464
+31-12-2023,Waikato,Orders,661
+31-12-2023,Waikato,Total,3125
+31-12-2023,Wairarapa/ Manawatu,Sentences,1126
+31-12-2023,Wairarapa/ Manawatu,Orders,337
+31-12-2023,Wairarapa/ Manawatu,Total,1463
+31-12-2023,Wellington,Sentences,1552
+31-12-2023,Wellington,Orders,321
+31-12-2023,Wellington,Total,1873
+31-12-2023,Whanganui/ Taranaki,Sentences,1096
+31-12-2023,Whanganui/ Taranaki,Orders,320
+31-12-2023,Whanganui/ Taranaki,Total,1416
+31-03-2024,Wairarapa/ Manawatu,Sentences,1909
+31-03-2024,Wairarapa/ Manawatu,Orders,600
+31-03-2024,Wairarapa/ Manawatu,Total,2509
+31-03-2024,Auckland,Sentences,4120
+31-03-2024,Auckland,Orders,873
+31-03-2024,Auckland,Total,4993
+31-03-2024,Bay of Plenty,Sentences,2590
+31-03-2024,Bay of Plenty,Orders,605
+31-03-2024,Bay of Plenty,Total,3195
+31-03-2024,Canterbury,Sentences,2163
+31-03-2024,Canterbury,Orders,682
+31-03-2024,Canterbury,Total,2845
+31-03-2024,East Coast,Sentences,1826
+31-03-2024,East Coast,Orders,437
+31-03-2024,East Coast,Total,2263
+31-03-2024,Manukau,Sentences,3186
+31-03-2024,Manukau,Orders,806
+31-03-2024,Manukau,Total,3992
+31-03-2024,Nelson/ West Coast,Sentences,981
+31-03-2024,Nelson/ West Coast,Orders,162
+31-03-2024,Nelson/ West Coast,Total,1143
+31-03-2024,Otago / Southland Region,Sentences,1443
+31-03-2024,Otago / Southland Region,Orders,393
+31-03-2024,Otago / Southland Region,Total,1836
+31-03-2024,Whanganui/ Taranaki,Sentences,1909
+31-03-2024,Whanganui/ Taranaki,Orders,600
+31-03-2024,Whanganui/ Taranaki,Total,2509
+31-03-2024,Waikato,Sentences,3077
+31-03-2024,Waikato,Orders,854
+31-03-2024,Waikato,Total,3931
+31-03-2024,Wellington,Sentences,1841
+31-03-2024,Wellington,Orders,375
+31-03-2024,Wellington,Total,2216
