@@ -1,0 +1,149 @@
+{
+    "version": "1.0",
+  "metadata": {
+    "Tables": {
+      "Age": "Contains the statistics of community based offenders according to the age groups",
+      "Ethinicity": "Contains the statistics of the community based offenders according to the ethinicity",
+      "Gender": "Contains the statistics of the community based offenders according to the gender",
+      "NoOfsentences": "Contains the entire statistics of the sentences and orders across various regions",
+      "Offencetype": "Contains the statistics of community based offenders across multiple offence types",
+      "Type": "Contains the statistics of community based sentences and order types"
+    },
+    "Age": {
+      "Dimension": {
+        "Date": "Quarterly dates of the past six years",
+        "Age": " Different Age groups classification",
+        "Observations": "The observed statistics in percentage"
+      },
+      "Measurement": {
+        "Age": [
+          "Under 20",
+          "20 - 24",
+          "25 - 29",
+          "30 - 39",
+          "40 - 49",
+          "50 - 59",
+          "60 and over",
+          "Unknown"
+        ]
+      }
+    },
+    "Ethinicity": {
+      "Dimension": {
+        "Date": "Quarterly dates of the past six years",
+        "Ethinicity": "Different Ethinic groups classification",
+        "Observations": "The observed statistics in percentage"
+      },
+      "Measurement": {
+        "Ethnicity": [
+          "MÄori",
+          "European",
+          "Pacific",
+          "Other (incl. Asian)",
+          "Unknown"
+        ]
+      }
+
+    },
+    "Gender": {
+      "Dimension": {
+        "Date": "Quarterly dates of the past six years",
+        "Gender": "Different Gender groups classification",
+        "Observations": "The observed statistics in percentage"
+      },
+      "Measurement": {
+        "Age": [
+          "Male",
+          "Female",
+          "Unknown",
+          "Indeterminate"
+        ]
+      }
+
+    },
+    "NoOfsentences": {
+      "Dimension": {
+        "Date": "Quarterly dates of the past six years",
+        "City": "The different cities in New Zealand",
+        "Type": "The types of Sentences and orders of prisoners",
+        "Observation": "The observed statistics in number"
+      },
+      "Measurement": {
+        "City": [
+          "Auckland",
+          "Bay of Plenty",
+          "Canterbury",
+          "East Coast",
+          "Manukau",
+          "Nelson/ West Coast",
+          "Otago / Southland Region",
+          "Waikato",
+          "Wairarapa/ Manawatu",
+          "Wellington",
+          "Whanganui/ Taranaki"
+        ],
+        "Type": [
+          "Sentences",
+          "Orders",
+          "Total"
+        ]
+      }
+
+    },
+    "Offencetype": {
+      "Dimension": {
+        "Date": "Quarterly dates of the past six years",
+        "Offensetype": "Different Offence type committed by the prisoners",
+        "Observations": "The observed statistics in percentage"
+      },
+      "Measurement": {
+        "Offencetype": [
+          "Abduction Harassment",
+          "Acts Intended To Cause Injury",
+          "Dangerous Or Negligent Acts",
+          "Fraud, Deception",
+          "Homicide",
+          "Illicit Drug Offences",
+          "Miscellaneous Offences",
+          "Offences Against Justice",
+          "Prohibited And Regulated Weapons",
+          "Property Damage",
+          "Public Order",
+          "Robbery, Extortion",
+          "Sexual Assault",
+          "Theft",
+          "Traffic",
+          "Unlawful Entry With Intent/Burglary",
+          "Unknown",
+          "Breaches",
+          "Dishonesty",
+          "Drugs",
+          "Other",
+          "Violence",
+          "Weapons"
+        ]
+      }
+    },
+    "Type": {
+      "Dimension": {
+        "Date": "Quarterly dates of the past six years",
+        "Type": "The different sentence and order types",
+        "Observations": "The observed statistics in percentage"
+      },
+      "Measurement": {
+        "Type": [
+          "Community Detention",
+          "Community Work",
+          "Extended Supervision Order",
+          "Home Detention",
+          "Intensive Supervision",
+          "Parole",
+          "Post Detention Conditions",
+          "Released on Conditions",
+          "Returning Offender Order",
+          "Supervision"
+        ]
+      }
+    }
+  }
+}
