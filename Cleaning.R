@@ -113,6 +113,61 @@ colnames(NoOfSentences) <- NoOfSentences[1, ]
 # Remove the first row from the dataset
 NoOfSentences <- NoOfSentences[-1, ]
 
+NoOfSentences <- NoOfSentences[NoOfSentences[,1] != 'Other', ]
+
+colnames(NoOfSentences)[1:2] <- c("City", "Type")
+
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Wellington Region", "2024-03-31"]
+NoOfSentences[NoOfSentences$City == "Wellington", "2024-03-31"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Waikato Region", "2024-03-31"]
+NoOfSentences[NoOfSentences$City == "Waikato", "2024-03-31"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Taranaki / Whanganui / Manawatu Region", "2024-03-31"]
+NoOfSentences[NoOfSentences$City == "Wairarapa/ Manawatu", "2024-03-31"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Wairarapa/ Manawatu", "2024-03-31"]
+NoOfSentences[NoOfSentences$City == "Whanganui/ Taranaki", "2024-03-31"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Otago / Southland Region", "2024-03-31"]
+NoOfSentences[NoOfSentences$City == "Otago", "2024-03-31"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Nelson / Marlborough / West Coast Region", "2024-03-31"]
+NoOfSentences[NoOfSentences$City == "Nelson/ West Coast", "2024-03-31"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Manukau Region", "2024-03-31"]
+NoOfSentences[NoOfSentences$City == "Manukau", "2024-03-31"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "East Coast Region", "2024-03-31"]
+NoOfSentences[NoOfSentences$City == "East Coast", "2024-03-31"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Canterbury Region", "2024-03-31"]
+NoOfSentences[NoOfSentences$City == "Canterbury", "2024-03-31"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Bay of Plenty Region", "2024-03-31"]
+NoOfSentences[NoOfSentences$City == "Bay of Plenty", "2024-03-31"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Auckland Region", "2024-03-31"]
+NoOfSentences[NoOfSentences$City == "Auckland", "2024-03-31"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Otago and South/ Mid Canterbury", "2022-09-30"]
+NoOfSentences[NoOfSentences$City == "Otago", "2022-09-30"] <- value_to_update
+
+value_to_update <- NoOfSentences[NoOfSentences$City == "Otago and South/ Mid Canterbury", 
+                                 c("2022-09-30","2022-12-31","2023-03-31","2023-06-30","2023-09-30","2023-12-31")]
+NoOfSentences[NoOfSentences$City == "Otago", c("2022-09-30","2022-12-31","2023-03-31","2023-06-30","2023-09-30","2023-12-31")] <- value_to_update
+
+NoOfSentences <- NoOfSentences[!(NoOfSentences[, 1] %in% c('Other', 'Wellington Region', 'Waikato Region', 'Taranaki / Whanganui / Manawatu Region',
+                                                           'Otago / Southland Region', 'Northland Region', 
+                                                           'Nelson / Marlborough / West Coast Region', 'Manukau Region',
+                                                           'East Coast Region', 'Canterbury Region', 'Bay of Plenty Region',
+                                                           'Auckland Region', 'Waitemata', 'Taupo/ Rotorua', 'Taitokerau',
+                                                           'Otago and South/ Mid Canterbury', 'Southland/ Central Otago',
+                                                           'Southland and Central/ South Otago')), ]
+
+
+
 
 NoOfSentences[is.na(NoOfSentences)] <- ""
 
