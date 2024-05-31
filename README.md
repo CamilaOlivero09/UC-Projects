@@ -24,5 +24,5 @@ This repository contains scripts and files for collecting, cleaning, organizing,
   - Other required Python and R packages
  
     ## API Links
-    http://3.106.55.200:5000/col35/prisonstatistics
-    http://3.106.55.200:5000/col35/metadataapi
+    - http://3.106.55.200:5000/col35/prisonstatistics
+    - http://3.106.55.200:5000/col35/metadataapi
